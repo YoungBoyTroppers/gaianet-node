@@ -47,7 +47,7 @@ The script prints the official node address on the console as follows.
 You can open a browser to that URL to see the node information and then chat with the AI agent on the node.
 
 ```
-... ... https://0xf63939431ee11267f4855a166e11cc44d24960c0.us.gaianet.network
+... ... https://0x58739c4C521E5aD81D1fe048382c813CA6Ff15fd.us.gaianet.network
 ```
 
 To stop the node, you can run the following script.
